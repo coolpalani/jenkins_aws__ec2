@@ -196,6 +196,9 @@
             "sa-east-1"      : {
                 "PV64" : "ami-fd9925e0",
                 "HVM64" : "ami-b52890a8"
+            },
+            "eu-west-2": {
+                "HVM64": "ami-1a7f6d7e"
             }
         }
     },
